@@ -46,5 +46,10 @@ Current Ripple (∆I) = 2A
 <img width="407" height="457" alt="image" src="https://github.com/user-attachments/assets/c6083c5a-a698-4499-97d4-528c43ab9ef4" />
 
 ## Simulation
+<img width="1321" height="540" alt="Screenshot 2025-09-28 194347" src="https://github.com/user-attachments/assets/c632dcc1-9259-4b63-93ee-dd89b4dc2903" />
+
 ## Output
+<img width="1919" height="924" alt="Screenshot 2025-09-28 194408" src="https://github.com/user-attachments/assets/1bc29eca-f6d2-4a4d-8592-b457ae35a18b" />
+
 ## Result
+Thus, Stepup chopper circuit was designed, simulated and analysed using MATLAB Simulink.
